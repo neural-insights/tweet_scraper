@@ -1,4 +1,5 @@
 # tweet_scraper
 Scrape tweets instantaneously of any subject from Twitter just setting up your preferences!
 
-![tweet_scrape ipynb](https://user-images.githubusercontent.com/109702220/229512375-d4371f9b-2298-46c0-97d3-05bd6bf4950c.jpg)
+![tweet_scrape ipynb](https://user-images.githubusercontent.com/109702220/229513436-cd15465a-04d0-4d23-822b-f907af64a85f.jpg)
+
